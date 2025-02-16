@@ -1,6 +1,5 @@
 <?php
 
-use Collection\Collection;
 
 class TagCollection extends Collection
 {
